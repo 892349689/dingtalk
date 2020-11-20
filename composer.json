@@ -1,0 +1,20 @@
+{
+    "name": "Layman/DingTalk",
+    "description": "layman dingtalk tools",
+    "keywords": ["laravel layman dingtalk tools"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "cc_layman",
+            "email": "954189157@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Layman\\DingTalk\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=7.0"
+    }
+}
